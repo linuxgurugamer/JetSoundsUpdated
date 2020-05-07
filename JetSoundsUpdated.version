@@ -1,0 +1,27 @@
+{
+  "NAME": "JetSoundsUpdated",
+  "URL": "http://ksp.spacetux.net/avc/JetSoundsUpdated",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/JetSoundsUpdated/releases",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 1
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "JetSoundsUpdated",
+    "PATH": "",
+    "DIRECTORY": "JetSoundsUpdated",
+    "FILE": "JetSoundsUpdated.version"
+  }
+}
