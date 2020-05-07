@@ -30,8 +30,8 @@
 # 3:SOURCEFILE, DESTDIR
 3:JetSoundsUpdated.version,GameData/JetSoundsUpdated
 
-3:License.md,GameData/KerbalHotSeat
-3:README.md,GameData/KerbalHotSeat
+3:License.md,GameData/JetSoundsUpdated
+3:README.md,GameData/JetSoundsUpdated
 
 #
 # End of file
