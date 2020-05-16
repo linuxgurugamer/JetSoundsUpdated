@@ -1,5 +1,8 @@
 ChangeLog
 
+1.3.0.4
+    Removed unnecessary patch for realplume
+    
 1.3.0.3
     Added NuclearJetENgine from AtomicAge
     
