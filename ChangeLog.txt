@@ -1,5 +1,10 @@
 ChangeLog
 
+1.3.0.7
+	Thanks to github user @IVsniper for this:
+		Fixes to the StockWaterfallEffects incompatability
+	Updated version file to use github for new version info
+
 1.3.0.6
     Thanks to @JadeOfMaar for these:
         remove redundant realplume [plume] configs
