@@ -1,5 +1,9 @@
 ChangeLog
 
+1.3.0.8
+	Thanks to a note from forum user @muktron239L
+		Fixed patches with multiple NEEDS to avoid MM warnings
+
 1.3.0.7
 	Thanks to github user @IVsniper for this:
 		Fixes to the StockWaterfallEffects incompatability
